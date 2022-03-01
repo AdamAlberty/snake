@@ -1,1 +1,1 @@
-# Snake game made with Python Tkinter GUI 🐍 
+# Simple snake game made with Python Tkinter GUI 🐍
